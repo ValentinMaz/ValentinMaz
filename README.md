@@ -1,5 +1,6 @@
 # Oh hey! I am Val 👋
-- 🌞 As a Solution Architect at Zurich Insurance Group, my role revolves around spearheading the Power Platform Center for Enablement.
-- 💻 I'll be utilizing GitHub to share [Power Platform samples and templates](https://github.com/ValentinMaz/Power-Platform-Samples) with the community.
-- 📝 Passionate about the Power Platform, I'm excited to announce that I'm launching a blog to publish compelling content centered around this ecosystem 👉 [PowerTricks.io](https://powertricks.io)!
-- 📬 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/valentin-mazhar/). I'd love to connect with you!
+- 🚀 I'm an **Independent Power Platform Architect and Governance Expert**, helping organizations scale low-code and generative AI securely and sustainably.  
+- 🧭 I specialize in **Power Platform Governance** and **Copilot Studio readiness**, building tools and frameworks that make innovation safer and more scalable.  
+- 💡 On [**PowerTricks.io**](https://powertricks.io), I share **insights, and reusable governance solutions** to support organizations and CoEs on their Power Platform journey.  
+- 💻 Here on GitHub, you’ll find my **public samples, templates, and governance utilities** - all field-tested and open to the community.  
+- 📬 You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/valentin-mazhar/) or follow my updates on PowerTricks.io.  
